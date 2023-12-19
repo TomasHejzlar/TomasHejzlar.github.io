@@ -19,4 +19,7 @@
 * 7, 70%, 2, velmi dobre (chvalitebne)
 * 9, 90%, 1, vyborne
 #
-link:
+
+
+link: http://webgamepublic.github.io
+      https://github.com/TomasHejzlar/WebgamePublic.github.io.git
